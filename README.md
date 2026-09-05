@@ -45,6 +45,12 @@ No microcontroller required
 Uses switches as manual character input
 Demonstrates practical use of OR gates
 Suitable for learning digital electronics and logic design
+
+## Hardware Implementation
+
+The circuit was implemented and tested on a breadboard using logic gates, switches, and a 7-segment display as a temporary substitute during the hardware testing phase.
+
+The actual project is designed for a **14-segment alphanumeric display**. The 7-segment display was used because the 14-segment display was not available during the initial hardware implementation.
 Future Scope
 
 The project can be extended to:
