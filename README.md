@@ -1,4 +1,4 @@
-Alpha-numeric 14-Segment Display using Logic Gates
+# Alpha-numeric 14-Segment Display using Logic Gates
 
 A Digital Electronics project that demonstrates how to display alphabets A–Z on a 14-segment alphanumeric display using OR-gate based combinational logic, switches, and basic digital ICs.
 
